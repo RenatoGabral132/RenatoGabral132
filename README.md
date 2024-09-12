@@ -1,7 +1,7 @@
 Sobre mim:
 
 - 👋 Olá, Eu sou o @RenatoGabral132
-- 👀 Atualmente estou no ensino médio
+- 👀 Atualmente estudante do ensino médio
 - 🌱 Estou em busca de aprendizagem sobre o curso de desenvolvimento de sistemas.
 - 💞️ Atualemte estou estudando sobre HTML e CSS.
 - 📫 Você pode me encontrar no email! Renato.gabral.silva@escola.pr.gov.br
